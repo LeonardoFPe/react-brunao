@@ -44,7 +44,7 @@ function MainSobre() {
       <div className="sobre-texto">
         <h2>
           Sobre <br />
-          <span className="destaque-brunao">Brunão</span>
+          <span className="destaque-brunao">Burger Lab</span>
         </h2>
         <p>
           Servimos hambúrguer caseiro irresistível desde 2011.

@@ -41,7 +41,7 @@ function Footer() {
 
         <div className="email">
           <h2>Nosso email</h2>
-          <p>brunaorestaurant@gmail.com</p>
+          <p>burgerlab@gmail.com</p>
         </div>
 
         <div className="number">

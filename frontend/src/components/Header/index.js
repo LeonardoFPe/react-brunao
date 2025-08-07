@@ -46,7 +46,7 @@ function Header() {
 
   return (
     <StyledHeader>
-      <h1> Brunão Restaurant </h1>
+      <h1> Burger Lab </h1>
       <p> Venha provar o melhor hamburguer do Brasil! </p>
       <figure className="header-img">
         <img src={Hamburguer} alt="foto-hamburguer" />
